@@ -1,0 +1,7 @@
+2023-08-06 06:41:22.745059 - Initialized conversion of CBT717
+2023-08-06 06:41:22.817218 - Received CBT.V505.FILE717.PDS from FILE717.XMI 
+2023-08-06 06:41:22.819647 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE717.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:41:22.821728 - De-xmi-ed $DOCFILE to CBT717/docs/$DOCFILE.doc
+2023-08-06 06:41:22.822765 - Found $ERRATA.txt (text/plain) in CBT.V505.FILE717.PDS, moved to PDS/$ERRATA
+2023-08-06 06:41:22.823836 - Found @FILE717.txt (text/plain) in CBT.V505.FILE717.PDS, moved to PDS/@FILE717
+2023-08-06 06:41:22.824788 - Found INSTALL.jcl (text/plain) in CBT.V505.FILE717.PDS, moved to PDS/INSTALL
