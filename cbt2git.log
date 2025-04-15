@@ -1,6 +1,6 @@
-2025-04-13 22:04:57.809779 - Received CBT.V508.FILE717.PDS from FILE717.XMI 
-2025-04-13 22:04:57.810486 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE717.PDS, moved to PDS/$$$#DATE
-2025-04-13 22:04:57.810825 - Found $DOCFILE.doc (application/msword) in CBT.V508.FILE717.PDS, moved to docs/$DOCFILE.doc
-2025-04-13 22:04:57.810896 - Found $ERRATA.txt (text/plain) in CBT.V508.FILE717.PDS, moved to PDS/$ERRATA
-2025-04-13 22:04:57.810964 - Found @FILE717.txt (text/plain) in CBT.V508.FILE717.PDS, moved to PDS/@FILE717
-2025-04-13 22:04:57.811067 - Found INSTALL.jcl (text/plain) in CBT.V508.FILE717.PDS, moved to PDS/INSTALL
+2025-04-15 04:58:12.455689 - Received CBT.V508.FILE717.PDS from FILE717.XMI 
+2025-04-15 04:58:12.457113 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE717.PDS, moved to PDS/$$$#DATE
+2025-04-15 04:58:12.458560 - Found $DOCFILE.doc (application/msword) in CBT.V508.FILE717.PDS, moved to docs/$DOCFILE.doc
+2025-04-15 04:58:12.458771 - Found $ERRATA.txt (text/plain) in CBT.V508.FILE717.PDS, moved to PDS/$ERRATA
+2025-04-15 04:58:12.459132 - Found @FILE717.txt (text/plain) in CBT.V508.FILE717.PDS, moved to PDS/@FILE717
+2025-04-15 04:58:12.459696 - Found INSTALL.jcl (text/plain) in CBT.V508.FILE717.PDS, moved to PDS/INSTALL
